@@ -1,0 +1,7 @@
+{
+	modules:
+		{
+		    name:'modulePackages',
+		    class:'com.appinfo.lixueqing.myapp.PackagesModule'
+		}
+}
